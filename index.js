@@ -7,9 +7,3 @@ function msg(){
 </script>  
 </head>  
 <body>  
-<p>Welcome to Javatpoint</p>  
-<form>  
-<input type="button" value="click" onclick="msg()"/>  
-</form>  
-</body>  
-</html> 
